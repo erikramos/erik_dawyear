@@ -67,10 +67,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
+		'host' => 'us-cdbr-azure-west-b.cleardb.com',
+		'login' => 'b27a6828a92fd7',
+		'password' => 'cdbc4a2afbb244e',
+		'database' => 'as_a96157feae3291e',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
