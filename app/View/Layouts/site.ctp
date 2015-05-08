@@ -1,7 +1,7 @@
 <?php
 
 $mostra_menu = 1;
-$nao_verificar = array('/daw_yearbook/index.php/participantes/cadastrar');
+$nao_verificar = array('/index.php/participantes/cadastrar');
 
 if(!in_array($this->here, $nao_verificar)){
 
