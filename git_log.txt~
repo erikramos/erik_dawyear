@@ -1,0 +1,40 @@
+erik@desk:/var/www/html/daw_yearbook$ git log
+commit aec835a19163f410fde377c8943c214184db7cfa
+Merge: d326251 2ab8425
+Author: erikramos <erik.ramos@virgos.com.br>
+Date:   Thu May 7 22:50:53 2015 -0300
+
+    Merge branch 'master' of https://github.com/erikramos/erik_dawyear
+
+commit d326251fde13d9174836f78f76800a9329021644
+Author: erikramos <erik.ramos@virgos.com.br>
+Date:   Thu May 7 22:46:09 2015 -0300
+
+    Imagens alunos
+
+commit 2ab842568b98ec8dc4353c2ee9b4ed7021f299f9
+Author: Erik Ramos <erik.ramos@virgos.com.br>
+Date:   Thu May 7 22:08:13 2015 -0300
+
+    Update site.ctp
+    
+    alteração do caminho da pagina que não precisa verificar sessao do usuário
+
+commit a9a15764e25211aeb3fd2d191b7b8ed7d9d5b487
+Author: Erik Ramos <erik.ramos@virgos.com.br>
+Date:   Thu May 7 15:07:12 2015 -0300
+
+    Rename database.php.default to database.php
+
+commit 1c0540a4abfdbc5c1c2e18e2ec34f6091e4cf4ad
+Author: Erik Ramos <erik.ramos@virgos.com.br>
+Date:   Thu May 7 15:05:18 2015 -0300
+
+    Update database.php.default
+
+commit c9d79cc858136d36d79dbeaa1659a8f21db2d244
+Author: erikramos <erik.ramos@virgos.com.br>
+Date:   Tue May 5 23:10:47 2015 -0300
+
+    Primeiro commit
+
